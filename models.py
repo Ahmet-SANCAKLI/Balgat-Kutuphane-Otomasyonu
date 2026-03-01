@@ -23,3 +23,4 @@ class Uye:
         return f"ID: {self.uye_id} | İsim: {self.ad_soyad} | Kitap Sayısı: {len(self.alinan_kitaplar)}"
     # bu nedir #
     # Tamam #
+    #### Hadi Yeter###
